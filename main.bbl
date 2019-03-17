@@ -1,0 +1,33 @@
+\begin{thebibliography}{1}
+
+\bibitem{SOURCEdataset}
+LASP Interactive Solar Irradiance~Data Center.
+\newblock Source dataset.
+\newblock \url{http://lasp.colorado.edu/lisird/data/sorce_ssi_l3/}.
+\newblock Last Access: December 2018.
+
+\bibitem{gerlin13}
+F.~{Gerlin}, N.~{Laurenti}, G.~{Naletto}, G.~{Vallone}, P.~{Villoresi},
+  L.~{Bonino}, S.~{Mottini}, and Z.~{Sodnik}.
+\newblock Design optimization for quantum communications in a gnss
+  intersatellite network.
+\newblock In {\em 2013 International Conference on Localization and GNSS
+  (ICL-GNSS)}, pages 1--6, June 2013.
+
+\bibitem{leinert98}
+Ch~Leinert, Stuart Bowyer, L~K.~Haikala, M~S.~Hanner, M~Hauser, A.-Ch
+  Levasseur-Regourd, Ingrid Mann, Katariina Mattila, William Reach,
+  W~Schlosser, H.J. Staude, G~N.~Toller, J~L.~Weiland, J~L.~Weinberg, and Adolf
+  Witt.
+\newblock The 1997 reference of diffuse night sky brightness.
+\newblock {\em http://dx.doi.org/10.1051/aas:1998105}, 127, 01 1998.
+
+\bibitem{tomaello11}
+Andrea Tomaello, Cristian Bonato, Vania {Da Deppo}, Giampiero Naletto, and
+  Paolo Villoresi.
+\newblock Link budget and background noise for satellite quantum key
+  distribution.
+\newblock {\em Advances in Space Research - ADV SPACE RES}, 47:802--810, 03
+  2011.
+
+\end{thebibliography}
